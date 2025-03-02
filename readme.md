@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/ZakariaOuakrim/Dependency-Injection-Spring">
-    <img src="https://raw.githubusercontent.com/ZakariaOuakrim/Dependency-Injection-Spring/master/src/main/resources/icons/project-icon.jpg" alt="Dependency-Injection-Spring-java">
+    <img src="https://raw.githubusercontent.com/ZakariaOuakrim/Dependency-Injection-Spring/master/src/main/resources/icons/project-icon.png" alt="Dependency-Injection-Spring-java">
   </a>
 </h1>
 <p align="center">
