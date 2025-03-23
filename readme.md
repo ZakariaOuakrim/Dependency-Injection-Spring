@@ -19,6 +19,8 @@
 <a href="#issue">Issue?</a>
 </p>
 
+<i>This project is part of a group of projects related to JEE and Middleware at ENSET Mohammedia.</i>
+
 # Introduction
 This <b>Dependency Injection</b> teaches dependency injection in Java. You can:
 
